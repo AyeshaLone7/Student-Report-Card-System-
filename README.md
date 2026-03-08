@@ -23,4 +23,4 @@ This project was created as a university assignment to practice programming conc
 
 Author
 
-Ayesha and other group members 
+. Ayesha and other group members 
